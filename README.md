@@ -1,8 +1,6 @@
-# CS50 Web Programming Final Project - Dynamic Portfolio
+# CS50 Web Programming Final Project - MyPortfolio
 
-## Project Overview
-
-Welcome to Dynamic Portfolio, an innovative web application designed to elevate your online presence. Unlike traditional portfolios, Dynamic Portfolio redefines the way you showcase your professional identity. This platform offers a seamless blend of modern design, interactivity, and personalization, ensuring that your portfolio is not just a static display but a living representation of your evolving skills and accomplishments.  
+Welcome to MyPortfolio, an innovative web application designed to elevate your online presence. Unlike traditional portfolios, MyPortfolio redefines the way you showcase your professional identity. This platform offers a seamless blend of modern design, interactivity, and personalization, ensuring that your portfolio is not just a static display but a living representation of your evolving skills and accomplishments.  
 
 ## Distinctiveness and Complexity
 
@@ -29,9 +27,9 @@ On the backend, Django models (`Portfolio`, `Project`, `ProjectDetail`) provide 
 
 ## Project Demonstration
 
-For a comprehensive demonstration of the project's functionality, please watch the following video:  
+For a comprehensive demonstration of the project's functionality, please click on the image below:  
 
-[![Watch the Project Demo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfw5WB49Fpn3vztA1qlRKSC3xS8Ypy_lI4oH2lsYdzU7UL-jSAxIcbzKz4grg6Pc2fxfJ9Q1_9rDf3gPNqRQZsrNXWTgdDVm6no3iIYdunD-XVFaJ5ZtOhkXjGR5054SXfgiyz4au4aKSt62nD1fyKjt2Ys0wMvMgcA4NElEj4RGecM8TcdUnplbDZbO0/s1366/Portfolio.png)](https://www.youtube.com/watch?v=UlfPOOUL5tw)
+[![Portfolio](https://blogger.googleusercontent.com/img/a/AVvXsEhg2eu_QQMOUDpTXCS80yD78r3eH4VPRfahpQ1nagnBkEVoWX4n0CCDIsnpT-CriUn3PLuVlpFIb2nNxjK2TnAGGGs3tDpJb9ejFPnmrNsC7c7x9FmH9KOph9e3ezKWu-e6GeS8_vZivIkvlacLTMbTGMhjVwGLt-DN9ieRJhIyOnr2VnSA3r9lykKRwJ8)](https://thechamkhi.pythonanywhere.com/)
 
 ## Running the Application
 
