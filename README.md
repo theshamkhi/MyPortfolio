@@ -29,7 +29,7 @@ On the backend, Django models (`Portfolio`, `Project`, `ProjectDetail`) provide 
 
 For a comprehensive demonstration of the project's functionality, please click on the image below:  
 
-[![Portfolio](https://blogger.googleusercontent.com/img/a/AVvXsEhg2eu_QQMOUDpTXCS80yD78r3eH4VPRfahpQ1nagnBkEVoWX4n0CCDIsnpT-CriUn3PLuVlpFIb2nNxjK2TnAGGGs3tDpJb9ejFPnmrNsC7c7x9FmH9KOph9e3ezKWu-e6GeS8_vZivIkvlacLTMbTGMhjVwGLt-DN9ieRJhIyOnr2VnSA3r9lykKRwJ8)](https://thechamkhi.pythonanywhere.com/)
+[![Portfolio](https://blogger.googleusercontent.com/img/a/AVvXsEhv3_ehrekr2CVamLrn7PRH5lPsx7ncvOwMSPlPrsoblTSiH8fPcT00ZDwbdRHuk2hvX2t-QZ2xSH8x68MkwZy1Izn8-blbElsy8g8BILKyeFGMEz71QC0AjaCwtfy8uTyR7Sr1u5AyMvxMvF9wLk0nHFCer0vJMGUDtKBweERnztrMbAOz4JYilMYdUZU)](https://thechamkhi.pythonanywhere.com/)
 
 ## Running the Application
 
